@@ -8,5 +8,5 @@ function deleteFromObjectByKey(obj,key){
   delete obj[key]
   return obj
 }
-function destructivelyUpdateObjectWithKeyAndValue
-function destructivelyDeleteFromObjectByKey
+function destructivelyUpdateObjectWithKeyAndValue(){}
+function destructivelyDeleteFromObjectByKey(){}
